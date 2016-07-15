@@ -7,9 +7,9 @@ frustration: __Why does something so simple have to be made so complicated?__
 
 <div>
 <iframe
-    width="80%"
+    width="100%"
     height="300"
-    src="https://cdn.rawgit.com/bclinkinbeard/c45ef0f77687756ac8f17ea8db992f74/raw/c068860e391ffba5e6fbe1c8dc5f6c3a43bae265/frame-filler.html">
+    src="https://rawgit.com/bclinkinbeard/c45ef0f77687756ac8f17ea8db992f74/raw/c068860e391ffba5e6fbe1c8dc5f6c3a43bae265/frame-filler.html">
 </iframe>
 </div>
 
