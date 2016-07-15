@@ -7,7 +7,7 @@ frustration: __Why does something so simple have to be made so complicated?__
 
 <div>
 <iframe
-    width="120%"
+    width="100%"
     height="300"
     src="https://rawgit.com/bclinkinbeard/c45ef0f77687756ac8f17ea8db992f74/raw/8677570988ed072bc1a744c9c8e4ae4a55b1efb4/frame-filler.html">
 </iframe>
@@ -22,10 +22,8 @@ The story problem is drawn from a situation outside of education where we are as
 improvement in personal best high jumps for two high jumpers, Anna and Judy.
 
 <iframe
-    width="900"
+    width="100%"
     height="500"
-    frameborder="no"
-    scrolling="no"
     src="https://rawgit.com/dbetebenner/e0f874d6ab1736fdc69bf9ddff9593ec/raw/6b057c1808d7bfa4dee561fa6279d297855f239d/index.html">
 </iframe>
 
