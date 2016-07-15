@@ -5,13 +5,13 @@ concepts to all parents, especially as they relate to increases in the height an
 when details about the "growth model" emerge reactions often range from general confusion to
 frustration: __Why does something so simple have to be made so complicated?__
 
-<!--<div>-->
+<div>
 <iframe
     width="120%"
     height="300"
     src="https://rawgit.com/bclinkinbeard/c45ef0f77687756ac8f17ea8db992f74/raw/8677570988ed072bc1a744c9c8e4ae4a55b1efb4/frame-filler.html">
 </iframe>
-<!--</div>-->
+</div>
 
 In reality, student academic growth is a little more complicated than most people think but much less complicated than
 what's written about it would lead one to believe. A simple 5th grade story problem helps to illustrate this point.
