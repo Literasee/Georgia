@@ -15,7 +15,7 @@ improvement in personal best high jumps for two high jumpers, Anna and Judy.
 
 <iframe
     width="100%"
-    height="500"
+    height="300"
     src="https://rawgit.com/bclinkinbeard/a2fdce4d5b56d4563d4fef4292a90eda/raw/2d2fa33e88b774e0b2558562c242a405f9800150/index.html">
 </iframe>
 
