@@ -5,14 +5,6 @@ concepts to all parents, especially as they relate to increases in the height an
 when details about the "growth model" emerge reactions often range from general confusion to
 frustration: __Why does something so simple have to be made so complicated?__
 
-<div>
-<iframe
-    width="100%"
-    height="300"
-    src="https://rawgit.com/bclinkinbeard/c45ef0f77687756ac8f17ea8db992f74/raw/8677570988ed072bc1a744c9c8e4ae4a55b1efb4/frame-filler.html">
-</iframe>
-</div>
-
 In reality, student academic growth is a little more complicated than most people think but much less complicated than
 what's written about it would lead one to believe. A simple 5th grade story problem helps to illustrate this point.
 
@@ -24,7 +16,7 @@ improvement in personal best high jumps for two high jumpers, Anna and Judy.
 <iframe
     width="100%"
     height="500"
-    src="https://rawgit.com/dbetebenner/e0f874d6ab1736fdc69bf9ddff9593ec/raw/6b057c1808d7bfa4dee561fa6279d297855f239d/index.html">
+    src="https://rawgit.com/bclinkinbeard/a2fdce4d5b56d4563d4fef4292a90eda/raw/2d2fa33e88b774e0b2558562c242a405f9800150/index.html">
 </iframe>
 
 >Anna is a novice higher jumper and Judy is a world class competitor. In 2015 Anna’s best jump was 3 feet 6 inches whereas Judy's
