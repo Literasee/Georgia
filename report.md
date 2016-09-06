@@ -13,15 +13,14 @@ what's written about it would lead one to believe. A simple 5th grade story prob
 The story problem is drawn from a situation outside of education where we are asked to consider the
 improvement in personal best high jumps for two high jumpers, Anna and Judy.
 
-<div class="iframe-container">
 <iframe
     width="100%"
     height="700"
     scrolling="no"
     marginheight="0"
+    class="full-width"
     src="https://rawgit.com/bclinkinbeard/a2fdce4d5b56d4563d4fef4292a90eda/raw/0209f6bf007549a56dbe20e7e07493bbc3b8ee92/index.html">
 </iframe>
-</div>
 
 >Anna is a novice higher jumper and Judy is a world class competitor. In 2015 Anna’s best jump was 3 feet 6 inches whereas Judy's
 >was 6 feet 7 inches. During following 2016 season Anna improved to 4 feet and Judy to 6 feet 9 inches.
