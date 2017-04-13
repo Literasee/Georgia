@@ -2,7 +2,9 @@
 
 ## Explanatory Modules
 
-1. What is Student Growth? (Builds on Subtraction isn't a growth model)
+1. What is Student Growth?
+    * Student growth vis-à-vis student learning.
+    * Builds on Subtraction isn't a growth model
 2. What is a Student Growth Percentile?
 3. Summarizing student growth for groups.
 4. Am I on track to be proficient?
