@@ -4,14 +4,17 @@
 
 1. What is Student Growth?
     * Student growth vis-à-vis student learning.
-    * Subtraction isn't a growth model
+    * Subtraction isn't a growth model.
 2. What is a Student Growth Percentile?
     * What is a percentile?
     * Properties of SGPs?
 3. Summarizing student growth for groups.
-    * What is a mean and what is a median?
+    * Mean: What is a mean?
+    * Median: What is a median?
+    * Percent above a cut.
 4. Student growth targets: Am I on track to be proficient?
     * What does "on track" mean?
+    * Growth and attainment: Opposite sides of the same coin.
 5. A year's worth of growth.
 6. The two sides of growth: Looking backward and looking forward.
 7. Baseline-referenced versus cohort-referenced SGPs.
