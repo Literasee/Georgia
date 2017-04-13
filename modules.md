@@ -2,7 +2,11 @@
 
 ## Explanatory Introduction Modules
 
-1. What is Student Growth?
+0. Introduction: Georgia Model of Student Growth
+    * Why student growth?
+    * Policy background.
+    * Goals for the Georgia Model of Student Growth.
+1. What is (and isn't) Student Growth?
     * Student growth vis-à-vis student learning.
     * Subtraction isn't a growth model.
 2. What is a Student Growth Percentile?
