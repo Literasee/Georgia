@@ -7,7 +7,7 @@ As something that happens over time, learning is not something observed in a sin
 moments.
 
 <p align="center">
-        <img src="https://literasee.github.io/Georgia/public/CC-BY-SA.svg" style="width: 25%;">
+        <img src="https://raw.githubusercontent.com/Literasee/Georgia/master/Figures/Achievement_Over_Time/achievement_over_time.svg" style="width: 25%;">
 </p>
 
 The Georgia Model of Student Growth uses results from Georgia's annual assessments to determine each student's growth
