@@ -8,10 +8,15 @@ moments.
 
 
 The Georgia Model of Student Growth uses results from Georgia's annual assessments to determine each student's growth
-in various content areas and grades.
+in various content areas and grades. The impetus for the Georgia Model of Student Growth is:
 
+* Data availability
+* School & Educator Evaluation
 
-
+Data availability is made possible by state testing that tracks student progress over time. Data derived from
+those tests is then used to calculate student growth in the form of a [Student Growth Percentile](https://github.com/Literasee/Georgia/blob/master/module_2.md).
+With student growth percentiles available for students participating in Georgia's annual assessments, the quantities are then
+used as part of school and educator evaluation systems.
 
 
 ## Policy background
@@ -20,16 +25,10 @@ The foundation for the Georgia Model of Student Growth is the state assessment s
 state to annually capture the attainment of students in several content areas and grades. The annual
 testing of students is a requirement of policy initiatives dating back to the federal No Child Left Behind
 legislation that mandated states to perform annual testing of students and use the results as part of
-school accountability systems.
+school accountability systems. Later, Georgia was a received a Race to the Top grant requiring the state
+to use student outcomes from large scale assessments as a part of teacher evaluation.
 
 
-The impetus for the Georgia Model of Student Growth is:
-
-* Data availability
-* School & Educator Evaluation
-
-Data availability is made possible by state testing that tracks student progress over time. Data derived from
-those tests is then used to calculate a student growth in the form of a Student Growth Percentile. 
 
 ## Goals for the Georgia Model of Student Growth
 
