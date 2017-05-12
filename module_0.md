@@ -6,6 +6,9 @@ A primary goal of education is to enable student learning. Student growth is an 
 As something that happens over time, learning is not something observed in a single moment but in a succession of
 moments.
 
+<p align="center">
+        <img src="https://literasee.github.io/Georgia/public/CC-BY-SA.svg" style="width: 25%;">
+</p>
 
 The Georgia Model of Student Growth uses results from Georgia's annual assessments to determine each student's growth
 in various content areas and grades. The impetus for the Georgia Model of Student Growth is:

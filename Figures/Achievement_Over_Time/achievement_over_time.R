@@ -6,19 +6,11 @@
 
 ### Load packages
 
-require(xkcd)
+require(svglite)
 
 
 ### Create figure
 
-data <- data.frame(x1=c(1,2), y1=c(10,20), xend=c(2.5,0.5), yend=c(20,10), model=c("low","high"))
-
-pdf(file="test.pdf")
-xrange <- range(mtcars$mpg)
-yrange <- range(mtcars$wt)
-p <- ggplot() +
-geom_point(aes(mpg, wt), data=mtcars) +
-xkcdaxis(xrange,yrange)
-p
-#ggplot() + xkcdline(mapping=aes(xbegin=x1 +y1, ybegin=y1, xend =xend, yend= yend, color = model), data=data)
+svglite(file="achievement_over_time.svg", width=5, height=3)
+plot(x=1:10)
 dev.off()
